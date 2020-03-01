@@ -1,4 +1,4 @@
-## Portmone Development Guide
+## Portmone Integration Guide
 
 Portmone is a service that allows user to share the proven identity facts with 3rd parties without the need to share any of the government issued documents.
 
